@@ -27,7 +27,7 @@ export default function Footer() {
         </form>
       </div>
     </div>
-      <h6>Copyright © 2024, AI report Generator. Design By Hammad.</h6>
+      <h6>Copyright © 2024, AI report Generator. Design By ABC.</h6>
     </div>
   )
 }
