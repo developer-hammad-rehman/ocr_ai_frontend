@@ -8,7 +8,7 @@ export default function Footer() {
       <div className='w-full h-full flex flex-wrap  lg:flex-nowrap justify-evenly items-center  '>
       <div className='flex flex-col justify-center items-center'>
         <Image src={'/logo.png'} alt='Logo Image' width={100} height={100}/>
-        <p className='w-40'>A Magical Tool to Optimize you content for the first know who you're targeting. Identify your target audience.</p>
+        <p className='w-40'>A Magical Tool to Optimize you content for the first know who you&apos;re targeting. Identify your target audience.</p>
       </div>
       <div className='flex flex-col justify-center items-center'>
         <h6 className='text-xl font-bold'>Gen AI</h6>
